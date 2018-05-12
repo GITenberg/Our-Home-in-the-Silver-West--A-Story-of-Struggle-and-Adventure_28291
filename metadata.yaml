@@ -1,0 +1,31 @@
+_repo: Our-Home-in-the-Silver-West--A-Story-of-Struggle-and-Adventure_28291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28291-h/images/cover-back.jpg
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, W. Gordon (William Gordon)
+    - Stables, William Gordon
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of South America -- Argentina -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Argentina -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Argentina -- Juvenile fiction'
+title: 'Our Home in the Silver West: A Story of Struggle and Adventure'
+url: http://www.gutenberg.org/ebooks/28291
